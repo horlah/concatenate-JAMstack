@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>This is an about page</h1>
+    <h1>This is an about page, work</h1>
     <p>
       Make your own layout! You can use this if it helps:
       <a href="https://cssgrid-generator.netlify.com/">CSS Grid Generator</a>
