@@ -1,6 +1,6 @@
 <template>
   <div>
-    <form name="contact" method="POST">
+    <form name="contact" @click.prevent method="POST">
       <!--add some things here to make it work with Netlify-->
       <p class="visually-hidden">
         <!--add something here to catch the bots!-->
@@ -36,5 +36,6 @@ button {
 label,
 button {
   margin-top: 20px;
+  outline: none;
 }
 </style>

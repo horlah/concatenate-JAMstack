@@ -9,7 +9,7 @@
 export default {
   data() {
     return {
-      name: "Padi mi"
+      name: "Emmanuel"
     };
   }
 };
